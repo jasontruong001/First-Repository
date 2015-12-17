@@ -10,3 +10,7 @@ I edit views.py in polls
 Created urls.py and follow instructions to add code into urls.py with nano text editor
 
 Finished up rest of tutorial 1 and everything ran correctly so far.
+
+# Tutorial 2
+I added admin user
+added a question to the poll
